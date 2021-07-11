@@ -1,7 +1,7 @@
 # PipeSpin
 
-[itch.io page (download)](https://hippydave.itch.io/pipespin)
-[github page (source code)](https://github.com/hippydave/pipespin)
+* [itch.io page (download)](https://hippydave.itch.io/pipespin)
+* [github page (source code)](https://github.com/hippydave/pipespin)
 
 ## About
 
