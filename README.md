@@ -40,22 +40,22 @@ By default the game displays button labels to let you know what controls what, b
 
 ## Credits
 
-Game concept, code, graphics, sfx and music by hippydave
-Hiscore music originally composed by Hip Tanaka, cover version by hippydave
-Colour palette and rainbow blocks by Haley Halcyon (CC0) https://opengameart.org/content/color-match-puzzle-rainbow-panels
-Font by Pixel-boy (CC0) http://opengameart.org/content/superpowers-assets-bitmap-fonts
-Logo/Game Over font based on Down the Drain (origin unclear but marked as freeware) https://www.dafont.com/down-the-drain.font (and every other font site)
-Disk icon modified from Vellidragon (CC0) https://opengameart.org/content/menu-icons-0
-Steel drum samples from Jason Champion (freeware) https://freewavesamples.com/instrument/steel-drums
-Other CC0 sound samples used for the music were found by searching "metallic" on freesound.org, will try and track down links
+* Game concept, code, graphics, sfx and music by hippydave
+* Hiscore music originally composed by Hip Tanaka, cover version by hippydave
+* Colour palette and rainbow blocks by Haley Halcyon (CC0) https://opengameart.org/content/color-match-puzzle-rainbow-panels
+* Font by Pixel-boy (CC0) http://opengameart.org/content/superpowers-assets-bitmap-fonts
+* Logo/Game Over font based on Down the Drain (origin unclear but marked as freeware) https://www.dafont.com/down-the-drain.font (and every other font site)
+* Disk icon modified from Vellidragon (CC0) https://opengameart.org/content/menu-icons-0
+* Steel drum samples from Jason Champion (freeware) https://freewavesamples.com/instrument/steel-drums
+* Other CC0 sound samples used for the music were found by searching "metallic" on freesound.org, will try and track down links
 
-Developed using devkitPro and libgba (per libgba's licence "PipeSpin is based in part on the work of the devkitpro project (http://sourceforge.net/projects/devkitpro)")
-Tested using mGBA by endrift/Vicki Pfau  https://mgba.io/
-Debug code mgba.c/mgba.h by endrift/Vicki Pfau https://github.com/mgba-emu/mgba/tree/master/opt/libgba
-GBA colour correction based on code by the late, great Near (formerly known as byuu) https://web.archive.org/web/20201130021101/https://byuu.net/video/color-emulation/
-Gamma correction based on code by Flubba https://forum.gbadev.org/viewtopic.php?f=9&t=3231
+* Developed using devkitPro and libgba (per libgba's licence "PipeSpin is based in part on the work of the devkitpro project (http://sourceforge.net/projects/devkitpro)")
+* Tested using mGBA by endrift/Vicki Pfau  https://mgba.io/
+* Debug code mgba.c/mgba.h by endrift/Vicki Pfau https://github.com/mgba-emu/mgba/tree/master/opt/libgba
+* GBA colour correction based on code by the late, great Near (formerly known as byuu) https://web.archive.org/web/20201130021101/https://byuu.net/video/color-emulation/
+* Gamma correction based on code by Flubba https://forum.gbadev.org/viewtopic.php?f=9&t=3231
 posprintf by Dan Posluns (public domain) http://danposluns.com/gbadev/posprintf/
-Vital hardware reference - tonc by cearn/J Vijn https://www.coranac.com/tonc/text/toc.htm
+* Vital hardware reference - tonc by cearn/J Vijn https://www.coranac.com/tonc/text/toc.htm
 
 Huge thanks to the hosts of GBA Jam 2021 (avivace, GValiente, peterlemon, skylyrac, exelotl), and to the people of the gbadev discord and extended gba dev community for inspiration and support.
 
