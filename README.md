@@ -13,7 +13,7 @@ PipeSpin was created for GBA Jam 2021, a three-month long jam to make games for 
 
 (tl;dr play it and find out;)
 
-PipeSpin is a Game Boy Advance game, so it comes in the form of a .gba file which can be played with an emulator (recommended [mGBA](https://mgba.io/)) or loaded onto a flash cart to be played on a real GBA/DS console.
+PipeSpin is a Game Boy Advance game, so it comes in the form of a .gba file which can be played with an emulator (recommended [mGBA](https://mgba.io/)) or loaded onto a flash cart to be played on a real GBA/DS console. There will also be a link to play it online in your browser, available soon.
 
 Currently the only play mode is Score Attack, the goal is to get the highest score possible before the play grid fills up. Selecting a start level affects how quickly new pipe pieces are initially added to the grid, this speed continues to increase each time you reach a new level during gameplay. A queue on the right of the screen shows you what kind of pipes are coming next. Each level number is reached by clearing 10 times that number of pipe pieces - so starting at level 0, clearing 10 pipes moves you to level 1, and 20 pipes to level two, but if you start on level 7, you need to clear 80 pipes to reach level 8, and then 90 to level 9 and so on.
 
