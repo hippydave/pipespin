@@ -54,7 +54,7 @@ By default the game displays button labels to let you know what controls what, b
 * Debug code mgba.c/mgba.h by endrift/Vicki Pfau https://github.com/mgba-emu/mgba/tree/master/opt/libgba
 * GBA colour correction based on code by the late, great Near (formerly known as byuu) https://web.archive.org/web/20201130021101/https://byuu.net/video/color-emulation/
 * Gamma correction based on code by Flubba https://forum.gbadev.org/viewtopic.php?f=9&t=3231
-posprintf by Dan Posluns (public domain) http://danposluns.com/gbadev/posprintf/
+* posprintf by Dan Posluns (public domain) http://danposluns.com/gbadev/posprintf/
 * Vital hardware reference - tonc by cearn/J Vijn https://www.coranac.com/tonc/text/toc.htm
 
 Huge thanks to the hosts of GBA Jam 2021 (avivace, GValiente, peterlemon, skylyrac, exelotl), and to the people of the gbadev discord and extended gba dev community for inspiration and support.
