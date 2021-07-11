@@ -1,0 +1,9 @@
+-gt
+-aw128
+-ah 128
+-m
+-mRt
+-mLa
+-p!
+-ftc
+-o titleSpin

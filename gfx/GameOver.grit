@@ -1,0 +1,9 @@
+-gt
+-aw256
+-ah 256
+-m
+-mRt
+-mLa
+-p!
+-ftc
+-o gameOver
