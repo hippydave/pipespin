@@ -1,5 +1,8 @@
 # PipeSpin
 
+[itch.io page (download)](https://hippydave.itch.io/pipespin)
+[github page (source code)](https://github.com/hippydave/pipespin)
+
 ## About
 
 PipeSpin is an action puzzle game for the Game Boy Advance, that involves making loops out of pieces of pipe. The gameplay takes inspiration from the venerable Pipe Mania (Pipe Dream in the US) and the GBA classic Guru Logic Champ. The hiscore music is a tribute to one of the all-time classics - actually one of the classic games and one of the classic game music composers - Tetris on the original Game Boy (which also inspired the overall game structure), whose music was composed by Hirokazu "Hip" Tanaka.
