@@ -48,6 +48,7 @@ By default the game displays button labels to let you know what controls what, b
 ## Credits
 
 * Game concept, code, graphics, sfx and music by hippydave
+* Colour consultant: my amazing wife Frances
 * Hiscore music originally composed by Hip Tanaka, cover version by hippydave
 * Colour palette and rainbow blocks by Haley Halcyon (CC0) https://opengameart.org/content/color-match-puzzle-rainbow-panels
 * Font by Pixel-boy (CC0) http://opengameart.org/content/superpowers-assets-bitmap-fonts
@@ -67,7 +68,7 @@ By default the game displays button labels to let you know what controls what, b
 
 Huge thanks to the hosts of GBA Jam 2021 (avivace, GValiente, peterlemon, skylyrac, exelotl), and to the people of the gbadev discord and extended gba dev community for inspiration and support.
 
-Hugest thanks to my incredible wife, whose love, support and advice (especially her genius about colours) makes everything possible.
+Hugest thanks to my incredible wife, whose love, support and advice makes everything possible.
 
 ## Licence
 
