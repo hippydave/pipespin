@@ -57,6 +57,7 @@ By default the game displays button labels to let you know what controls what, b
 * Other CC0 sound samples used for the music were found by searching "metallic" on freesound.org, will try and track down links
 
 * Developed using devkitPro and libgba (per libgba's licence "PipeSpin is based in part on the work of the devkitpro project (http://sourceforge.net/projects/devkitpro)")
+* Music playback by Maxmod https://maxmod.devkitpro.org/
 * Tested using mGBA by endrift/Vicki Pfau  https://mgba.io/
 * Debug code mgba.c/mgba.h by endrift/Vicki Pfau https://github.com/mgba-emu/mgba/tree/master/opt/libgba
 * GBA colour correction based on code by the late, great Near (formerly known as byuu) https://web.archive.org/web/20201130021101/https://byuu.net/video/color-emulation/
